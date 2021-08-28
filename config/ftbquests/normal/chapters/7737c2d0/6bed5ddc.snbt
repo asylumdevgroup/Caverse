@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: -7.5d,
+	dependencies: [
+		"bf99b6d1"
+	],
+	tasks: [{
+		uid: "063f63fc",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:duct_32",
+			tag: {
+				DenseType: 1b
+			},
+			Damage: 3s
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Leadstone Fluxduct",
+	x: 1.0d,
+	y: -4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "c135672c",
+		type: "item",
+		icon: "thermaldynamics:duct_0",
+		items: [{
+			item: "thermaldynamics:duct_0 1 1"
+		}]
+	}]
+}

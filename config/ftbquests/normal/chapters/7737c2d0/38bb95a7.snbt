@@ -1,0 +1,22 @@
+{
+	x: -1.0d,
+	y: 11.5d,
+	dependencies: [
+		"b5d180ff"
+	],
+	tasks: [{
+		uid: "1b3000a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:tool.hammer_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 5.5d,
+	y: 0.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "99c0be11",
+		type: "item",
+		items: [{
+			item: "virtualmachines:augment 1 1028"
+		}]
+	}]
+}

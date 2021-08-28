@@ -1,0 +1,25 @@
+{
+	title: "Welcome to Thermal Expansion",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalfoundation:wrench"
+	},
+	x: -1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "d3b0483d",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "919a46d3",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:wrench"
+		}
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	x: -4.5d,
+	y: -7.0d,
+	dependencies: [
+		"f44d184e"
+	],
+	tasks: [{
+		uid: "286a34d6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:cell",
+			tag: {
+				Recv: 16000,
+				RSControl: 0b,
+				Facing: 5b,
+				Creative: 0b,
+				Energy: 0,
+				Level: 3b,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				],
+				Send: 16000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

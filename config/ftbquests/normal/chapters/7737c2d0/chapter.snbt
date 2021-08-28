@@ -1,0 +1,7 @@
+{
+	title: "Technologically Progressing",
+	icon: "enderio:item_material 1 73",
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

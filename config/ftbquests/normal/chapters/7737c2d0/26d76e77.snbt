@@ -1,0 +1,22 @@
+{
+	x: -0.5d,
+	y: 10.5d,
+	dependencies: [
+		"b5d180ff"
+	],
+	tasks: [{
+		uid: "d406c8f0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:tool.fishing_rod_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

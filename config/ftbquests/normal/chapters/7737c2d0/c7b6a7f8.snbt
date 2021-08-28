@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: -3.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "b238a65b",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_16 1 1"
+		}]
+	}]
+}

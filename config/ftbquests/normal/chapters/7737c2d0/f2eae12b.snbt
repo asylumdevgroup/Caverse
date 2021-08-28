@@ -1,0 +1,22 @@
+{
+	x: -3.0d,
+	y: 11.5d,
+	dependencies: [
+		"b5d180ff"
+	],
+	tasks: [{
+		uid: "8acb0e0d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:tool.shovel_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

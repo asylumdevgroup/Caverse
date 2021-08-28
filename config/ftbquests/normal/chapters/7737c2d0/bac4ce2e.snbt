@@ -1,0 +1,29 @@
+{
+	x: -9.0d,
+	y: -6.0d,
+	dependencies: [
+		"356ec84b"
+	],
+	tasks: [{
+		uid: "7296a56b",
+		type: "item",
+		items: [{
+			id: "virtualmachines:virtual_machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					3b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 5s
+		}]
+	}]
+}

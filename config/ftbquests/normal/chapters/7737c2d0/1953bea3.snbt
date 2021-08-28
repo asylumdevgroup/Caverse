@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: 1.5d,
+	dependencies: [
+		"045fa6b4"
+	],
+	tasks: [{
+		uid: "2b0a07c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1b
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

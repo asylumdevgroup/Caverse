@@ -1,0 +1,22 @@
+{
+	x: -1.0d,
+	y: 9.5d,
+	dependencies: [
+		"b5d180ff"
+	],
+	tasks: [{
+		uid: "567de8ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:armor.legs_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

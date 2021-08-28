@@ -1,0 +1,15 @@
+{
+	x: 5.5d,
+	y: 9.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "c800be21",
+		type: "item",
+		items: [{
+			item: "thermallogistics:requester"
+		}]
+	}]
+}

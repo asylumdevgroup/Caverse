@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: -0.5d,
+	dependencies: [
+		"d0181883"
+	],
+	tasks: [{
+		uid: "71431219",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:capacitor",
+			tag: {
+				Energy: 9000000
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

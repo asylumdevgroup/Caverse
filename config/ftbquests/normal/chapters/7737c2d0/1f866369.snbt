@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "fede1758",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 433"
+		}]
+	}]
+}

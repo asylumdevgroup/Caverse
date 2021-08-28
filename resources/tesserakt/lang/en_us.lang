@@ -1,0 +1,4 @@
+itemGroup.tesserakt=Tesseracte
+tile.tesserakt.tesserakt.name=Tesseract
+tile.tesserakt.frame_empty.name=Tesseract Frame (Empty)
+tile.tesserakt.frame_full.name=Tesseract Frame (Full)

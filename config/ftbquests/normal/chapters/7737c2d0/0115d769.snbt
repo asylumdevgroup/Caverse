@@ -1,0 +1,22 @@
+{
+	x: -3.0d,
+	y: 9.5d,
+	dependencies: [
+		"b5d180ff"
+	],
+	tasks: [{
+		uid: "784d3820",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "redstonearsenal:armor.helmet_flux",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

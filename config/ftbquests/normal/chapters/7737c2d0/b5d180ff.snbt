@@ -1,0 +1,15 @@
+{
+	x: -4.0d,
+	y: 9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "67f8f501",
+		type: "item",
+		items: [{
+			item: "redstonearsenal:material 1 32"
+		}]
+	}]
+}

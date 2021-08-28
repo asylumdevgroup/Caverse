@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: 2.5d,
+	dependencies: [
+		"d92608bb"
+	],
+	tasks: [{
+		uid: "efe98134",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:magnet",
+			tag: {
+				Energy: 240000
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

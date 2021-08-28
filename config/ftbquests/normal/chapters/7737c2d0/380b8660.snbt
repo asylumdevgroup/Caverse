@@ -1,0 +1,20 @@
+{
+	x: -6.0d,
+	y: 5.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "7ef543d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:injector",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

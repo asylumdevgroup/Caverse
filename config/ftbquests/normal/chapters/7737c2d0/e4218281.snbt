@@ -1,0 +1,20 @@
+{
+	x: -3.5d,
+	y: -9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "fe8fbe2a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermallogistics:manager"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

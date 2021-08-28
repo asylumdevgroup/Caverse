@@ -1,0 +1,23 @@
+{
+	x: -9.0d,
+	y: -1.0d,
+	dependencies: [
+		"9f874203"
+	],
+	tasks: [{
+		uid: "60a5b38f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalcultivation:watering_can",
+			tag: {
+				Water: 40000,
+				Mode: 3
+			},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

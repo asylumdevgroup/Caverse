@@ -1,0 +1,177 @@
+type = menu
+
+customization-meta {
+  identifier = DummyCore.Client.GuiMainMenuVanilla
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/mainmenu/bg.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=400322%
+  width = 200
+  action = resizebutton
+  height = 28
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/long_button_highlighted.png
+  backgroundnormal = resources/mainmenu/long_button.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 59
+}
+
+customization {
+  identifier = %id=400382%
+  width = 98
+  action = resizebutton
+  height = 28
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options...
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  backgroundnormal = resources/mainmenu/button.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 0
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=502382%
+  width = 98
+  action = resizebutton
+  height = 28
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  backgroundnormal = resources/mainmenu/button.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=400298%
+  width = 200
+  action = resizebutton
+  height = 28
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/long_button_highlighted.png
+  backgroundnormal = resources/mainmenu/long_button.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=400346%
+  width = 98
+  action = resizebutton
+  height = 28
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  backgroundnormal = resources/mainmenu/button.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  path = resources/mainmenu/packlogo.png
+  orientation = mid-centered
+  x = -80
+  width = 160
+  actionid = 5613a5a5-ffc3-4165-a96c-aa9f97e04b8d1630107362101
+  action = addtexture
+  y = -62
+  height = 49
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 0
+  width = 98
+  actionid = da6bbdec-fb76-44f7-bed4-fa5ab8fc1bf51630186033442
+  action = addbutton
+  y = 32
+  backgroundhovered = resources/mainmenu/button_highlighted.png
+  label = Discord
+  backgroundnormal = resources/mainmenu/button.png
+  value = https://discord.gg/MTTCeZZ
+  height = 28
+}
+
+customization {
+  identifier = %id=9764%
+  action = hidebutton
+}
+

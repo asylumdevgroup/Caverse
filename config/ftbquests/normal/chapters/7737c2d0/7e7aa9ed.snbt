@@ -1,0 +1,23 @@
+{
+	x: -2.5d,
+	y: -6.0d,
+	dependencies: [
+		"2fedd255"
+	],
+	tasks: [{
+		uid: "165777ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:cache",
+			tag: {
+				RSControl: 0b,
+				Creative: 0b,
+				Level: 2b
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 11.0d,
+	dependencies: [
+		"9a3bc221"
+	],
+	tasks: [{
+		uid: "20094fd9",
+		type: "item",
+		items: [{
+			item: "thermallogistics:distributor 1 2"
+		}]
+	}]
+}

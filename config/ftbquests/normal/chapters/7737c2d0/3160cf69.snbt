@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: -10.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "4dee62bb",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:security"
+		}]
+	}]
+}

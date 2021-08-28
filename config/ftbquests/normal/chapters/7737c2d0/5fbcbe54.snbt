@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: -9.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"3aceea86"
+	],
+	tasks: [{
+		uid: "856ea11b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:tome_lexicon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

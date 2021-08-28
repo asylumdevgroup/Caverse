@@ -1,0 +1,20 @@
+{
+	x: -9.0d,
+	y: 7.0d,
+	dependencies: [
+		"9bd1fbde"
+	],
+	tasks: [{
+		uid: "01b5b30b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalinnovation:quiver",
+			tag: {},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}
